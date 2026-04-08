@@ -1,0 +1,6 @@
+Categoria,Puntuacion,Descripcion
+Atención al cliente,1.2,Escala: -2 (Muy insatisfecho) a +2 (Muy satisfecho)
+Calidad del producto,-0.5,Escala: -2 (Muy insatisfecho) a +2 (Muy satisfecho)
+Precio,0.8,Escala: -2 (Muy insatisfecho) a +2 (Muy satisfecho)
+Tiempo de entrega,-1.3,Escala: -2 (Muy insatisfecho) a +2 (Muy satisfecho)
+Experiencia general,0.3,Escala: -2 (Muy insatisfecho) a +2 (Muy satisfecho)
